@@ -9,7 +9,6 @@ namespace MyNotesApp
         public App()
         {
             InitializeComponent();
-
             MainPage = new MainPage();
         }
 
